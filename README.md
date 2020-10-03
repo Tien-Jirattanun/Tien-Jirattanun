@@ -1,9 +1,8 @@
-![IMG_0426](https://user-images.githubusercontent.com/48949523/87436966-ea8edc80-c617-11ea-8883-0874fedbdda8.jpg)
 ### はい！Jirattanunです‼🕯️
+I am backend Android developer 
 
-I am backend Android developer at Api development.
-
-- 💻 I work as an **Android Dev** at [Api development]
+- 💻 I work as an **Student** 
+- 📱  I want to work as **Android developer**
 - ⌨️ My main language is **Java** and **python**. 
 
 ### My Hobby
