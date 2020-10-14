@@ -24,6 +24,7 @@ I am backend Android developer
 
 ### よろしくおねがいします!!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tien-jirattanun)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Tien-jirattanun&show_icons=true)
 
 <!--
