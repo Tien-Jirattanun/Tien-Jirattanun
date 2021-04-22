@@ -1,8 +1,7 @@
-### はい！Jirattanunです‼🕯️
-I am backend Android developer 
+### はい！Jirattanunです‼🕯️ 
 
 - 💻 I work as an **Student** 
-- 📱  I want to work as **Android developer**
+- 📱  I want to work as **backend web developer & Android developer**
 - ⌨️ My main language is **Java** and **python**. 
 
 ### My Hobby
