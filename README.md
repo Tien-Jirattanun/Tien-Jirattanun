@@ -14,7 +14,7 @@
 - 😄 I'm Thai you can call me **Tien**!!
 - 🎏 My dream is to work at Japan company in the future!!
 - 💬 I can speak japanese a little bit. 
-- ✨ I'm 15
+- ✨ I'm 16
 
 ### My social media
 
