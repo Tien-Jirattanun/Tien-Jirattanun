@@ -1,7 +1,7 @@
 ### はい！Jirattanunです‼🕯️ 
 
 - 💻 I work as an **Student** 
-- 📱  I want to work as **backend web developer & Android developer**
+- 📱  I want to work as **software engineer**
 - ⌨️ My main language is **Java** and **python**. 
 
 ### My Hobby
