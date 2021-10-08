@@ -19,7 +19,7 @@
 ### My social media
 
   - [Facebook](https://www.facebook.com/jirattanun.leeudomwong/)
-  - [Instagram](https://www.instagram.com/tixn.tx/)
+  - [Instagram](https://www.instagram.com/5469656d/)
 
 ### よろしくおねがいします!!
 
