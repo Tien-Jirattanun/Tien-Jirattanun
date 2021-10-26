@@ -1,7 +1,7 @@
 ### はい！Jirattanunです‼🕯️ 
 
 - 💻 I work as an **Student** 
-- ⌨️ My main language is **Kotlin**, **Python**, **LabView**. 
+- ⌨️ My main language is **Kotlin**, **Python** and **LabView**. 
 
 ### My Hobby
 
