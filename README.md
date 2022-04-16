@@ -1,7 +1,7 @@
 ### はい！Jirattanunです‼🕯️ 
 
 - 💻 I work as an **Student** 
-- ⌨️ My main language is **Kotlin**, **Python** and **LabView**. 
+- ⌨️ My main language is **C**, **Python** and **LabView**. 
 
 ### My Hobby
 
@@ -11,7 +11,7 @@
 ### My fact
 
 - 😄 I'm Thai you can call me **Tien**!!
-- 🎏 My dream is to work at Japan company in the future!!
+- 🎏 My dream is to work at Japan robotic company in the future!!
 - 💬 I can speak japanese a little bit. 
 - ✨ I'm 16
 
