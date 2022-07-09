@@ -1,19 +1,19 @@
 ### はい！Jirattanunです‼🕯️ 
 
-- 💻 I work as an **Student** 
+- 💻 I am currently work as an **Student** 
 - ⌨️ My main language is **C**, **Python**, **arduino** and **LabView**. 
 
 ### My Hobby
 
-- ✏️ I like to code all time I can.😂
+- ✏️ I like to code ,make the robot and study aerospace technology.
 - 📷 I like to travel and take a photo.
 
 ### My fact
 
 - 😄 I'm Thai you can call me **Tien**!!
-- 🎏 My dream is to work at Japan robotic company in the future!!
+- 🎏 My dream is to make the robotics that cooperate with the aerospace technology in the future!!
 - 💬 I can speak japanese a little bit. 
-- ✨ I'm 16
+- ✨ I'm 17
 
 ### My social media
 
@@ -24,18 +24,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tien-jirattanun)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Tien-jirattanun&show_icons=true)
-
-<!--
-**Tien-Jirattanun/Tien-Jirattanun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
