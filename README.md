@@ -12,7 +12,7 @@
 ### My fact
 
 - 😄 I'm Thai you can call me **Tien**!!
-- 🎏 My dream is to make the robotics that cooperate with the aerospace technology in the future!!
+- 🎏 My dream is to work as **robotic system engineer**.
 - 💬 I can speak japanese a little bit. 
 - ✨ I'm 17
 
