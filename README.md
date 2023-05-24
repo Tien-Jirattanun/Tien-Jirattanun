@@ -1,11 +1,12 @@
 ### はい！Jirattanunです‼🕯️ 
 
-- 💻 I am currently work as an **Student** 
+- 💻 I am currently work as an **Student** at **FIBO KMUTT**
 - ⌨️ My main language is **C**, **Python**, **arduino** and **LabView**. 
+- 🤖 Currently study ROS.
 
 ### My Hobby
 
-- ✏️ I like to code ,make the robot and study aerospace technology.
+- ✏️ I like to code.
 - 📷 I like to travel and take a photo.
 
 ### My fact
