@@ -14,7 +14,7 @@
 - 😄 I'm Thai you can call me **Tien**!!
 - 🎏 My dream is to work as **robotic system engineer**.
 - 💬 I can speak japanese a little bit. 
-- ✨ I'm 17
+- ✨ I'm 18
 
 ### My social media
 
